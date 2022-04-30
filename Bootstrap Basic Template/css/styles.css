@@ -1,0 +1,17 @@
+/* add your css styles here! */
+
+/* Carousel CSS */
+.bd-example {
+    max-height: 500px;
+    width: 500px;
+    justify-content: center;
+}
+.carousel-inner {
+    justify-content: center;
+}
+
+.carousel-item {
+    justify-content: center;
+}
+
+
