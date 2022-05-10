@@ -1,22 +1,41 @@
 /* add your css styles here! */
 
-/* Carousel CSS */
-.bd-example {
-    max-height: 500px;
-    width: 500px;
-    align-items: center;
-}
-.carousel-inner {
-    justify-content: center;
-    align-items: center;
+h1 {
+    font-family: 'Fjalla One';
+    color: maroon;
+    font-size: 600%;
 }
 
-.carousel-item {
-    justify-content: center;
-    align-items: center;
+h2 {
+    font-family: 'Poppins';
+    font-size: 200%;
 }
 
-/* .img-height {
-    height: 100%;
-} */
+nav {
+    font-family: 'Poppins';
+    background-color: maroon;
+}
 
+.card-title {
+    font-family: 'Fjalla One';
+    color: maroon;
+}
+
+.card-text {
+    font-family: 'Poppins';
+}
+
+h5 {
+    font-family: 'Fjalla One';
+    color: maroon;
+    font-size: 200%;
+}
+
+p {
+    font-family: 'Poppins';
+    color: maroon;
+}
+
+img {
+    max-block-size: 100%;
+}
